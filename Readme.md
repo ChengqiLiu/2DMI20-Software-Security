@@ -1,5 +1,5 @@
 # 2DMI20-Software-Security
-It belongs to course 2DMI20 - Software Security. This course is offered at TU/e and aimed at students of mathematics and computer science.
+It belongs to course 2DMI20 - Software Security in the winter of 2023. This course is offered at TU/e and aimed at students of mathematics and computer science.
 
 
 Objectives
